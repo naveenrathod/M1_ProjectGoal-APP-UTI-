@@ -1,2 +1,2 @@
-# Sololearn  C Programming and CISCO learning Certificate on Linux 
+# Sololearn  C Programming and CISCO Certificate on Linux 
  
