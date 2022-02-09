@@ -1,1 +1,1 @@
-# Milestone-1
+# Implementing the game TicTacToe
