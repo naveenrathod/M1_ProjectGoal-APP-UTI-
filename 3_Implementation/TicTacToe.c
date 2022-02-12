@@ -55,6 +55,21 @@ int main(){
 		getch();
 		return 0;
 }
+void RowC(){
+	system("cls");
+	printf("\n\n\t Tic Tac Toe \n\n");
+	printf("Player1 (X) - Player2 (O) \n\n\n");
+	printf("     |     |     \n");
+	printf("  %c  |  %c  |  %c  \n",space[1],space[2],space[3]);
+	printf("_____|_____|_____\n");
+	printf("     |     |     \n");
+	printf("  %c  |  %c  |  %c  \n",space[4],space[5],space[6]);
+	printf("_____|_____|_____\n");
+	printf("     |     |     \n");
+	printf("  %c  |  %c  |  %c  \n",space[7],space[8],space[9]);
+	printf("     |     |     \n");
+}
+
 int Winp(){
 	if(space[1] == space[2] && space[2] == space[3])
 		return 1;
@@ -78,17 +93,3 @@ int Winp(){
 		return -1;
 }
 
-void RowC(){
-	system("cls");
-	printf("\n\n\t Tic Tac Toe \n\n");
-	printf("Player1 (X) - Player2 (O) \n\n\n");
-	printf("     |     |     \n");
-	printf("  %c  |  %c  |  %c  \n",space[1],space[2],space[3]);
-	printf("_____|_____|_____\n");
-	printf("     |     |     \n");
-	printf("  %c  |  %c  |  %c  \n",space[4],space[5],space[6]);
-	printf("_____|_____|_____\n");
-	printf("     |     |     \n");
-	printf("  %c  |  %c  |  %c  \n",space[7],space[8],space[9]);
-	printf("     |     |     \n");
-}
