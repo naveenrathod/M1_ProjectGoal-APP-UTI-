@@ -1,6 +1,3 @@
-# Description
- TicTacToe is a game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses.
-
 # High level requirements
  * User choice to select either 'X' or 'O'.
  * Selection of the block is represnted in a square format.
@@ -12,9 +9,6 @@
  * If the input is not valid the user has another chance to enter to choice.
  * The winner is choosen based on the row,column or diagonal 'X' or 'O' drawn in the nine square spaces.
  * If all squares are filled and neither player has made a complete row of Xs or Os, then the game is a draw.
-
-
-#
 
 
 
