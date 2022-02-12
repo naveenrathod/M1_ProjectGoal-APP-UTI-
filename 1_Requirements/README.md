@@ -9,6 +9,3 @@
  * If the input is not valid the user has another chance to enter to choice.
  * The winner is choosen based on the row,column or diagonal 'X' or 'O' drawn in the nine square spaces.
  * If all squares are filled and neither player has made a complete row of Xs or Os, then the game is a draw.
-
-
-
