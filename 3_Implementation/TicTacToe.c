@@ -1,6 +1,5 @@
-#include <stdio.h>
-#include <conio.h>
-#include <stdlib.h>
+#include "TicTacToe.h"
+
 
 int Winp();//For checking the winner
 void RowC();
