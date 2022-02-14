@@ -1,4 +1,4 @@
-# M1-TicTacToe_game
+# M1_TicTacToe_game
 
 * Reference: Youtube
 
