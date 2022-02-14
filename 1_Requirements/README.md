@@ -14,4 +14,4 @@
 |----|-------------|---------|-------|
 |LLR1 | Selecting 'X' or 'O'|Technical| Implemented|
 |LLR2 | If player enters wrong choice again a chance is given|Technical| Implemented|
-|LLR3 | block with both player choices|Technical| Implemented|
+|LLR3 | Block with both player choices|Technical| Implemented|
