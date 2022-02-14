@@ -1,3 +1,3 @@
-# Output screenshots of the TicTacToe game
-* Player1 
-* Player2
+|Test ID |Description |Expected i/p |Expected o/p |Actual o/p |Type of test|
+|---------|-----------------|---------| --------|--------|-------|
+|Test ID |Description |Expected i/p |Expected o/p |Actual o/p |Type of test|
