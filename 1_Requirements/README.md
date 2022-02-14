@@ -1,11 +1,15 @@
-# High level requirements
-* User choice to select either 'X' or 'O'.
-* Selection of the block is represnted in a square format.
-* The option of two players is also available along with single player.
+# High leel requirements
+| Id | Description | Category | Status |
+|----|-------------|---------|-------|
+|HLR1  |Displyaing which player goes first| Technical|Implemented|
+|HLR2 | Enter player choice|Technical| Implemented|
+|HLR3|Diisplay if a player wins |Technical|Implemented|
+|HLR4 |When game is tie restart the game freshly|Technical|Implemented|
 
 # Low level requirements
-* Everytime the user has to choose between 'X' and 'O'.
-* The square box consists of 9 input .
-* If the input is not valid the user has another chance to enter to choice.
-* The winner is choosen based on the row,column or diagonal 'X' or 'O' drawn in the nine square spaces.
-* If all squares are filled and neither player has made a complete row of Xs or Os, then the game is a draw.
+| Id | Description | Category | Status |
+|----|-------------|---------|-------|
+|LLR1 | Selecting 'X' or 'O'|Technical| Implemented|
+|LLR2 | If player enters wrong choice again a chance is given|Technical| Implemented|
+|LLR3 | Checking tie condition|Technical| Implemented|
+
