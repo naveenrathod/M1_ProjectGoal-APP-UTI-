@@ -27,4 +27,4 @@
 ## WHERE-
 * Implemented in mobiles with are basic as well as higher end.
 ## How-
-* It is free and can be used by everyone as it's simply .
+* It is free and can be used by everyone as it's simple.
