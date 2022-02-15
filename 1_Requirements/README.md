@@ -16,6 +16,9 @@
 |LLR2 | If player enters wrong choice again a chance is given|Technical| Implemented|
 |LLR3 | Block with both player choices|Technical| Implemented|
 
+# SWOT Analysis
+
+
 # 4W's- 1H
 ## WHO-
 * This game is just for fun and entertainment .
