@@ -1,5 +1,6 @@
 #include "TicTacToe.h"
 
+char space[10] = {'o','1','2','3','4','5','6','7','8','9'};
 
 int main(){
 	char xomark; // To mark X,O in the space
@@ -32,7 +33,7 @@ int main(){
 			else {
 				printf("Option is Invalid !");
 				player--;
-				getch();
+				scanf("%d",&option);
 			}
 			i = Winp();//To Check if the player has won
 			player++;
@@ -47,6 +48,6 @@ int main(){
 	else {
 		printf("==>Game draw");
 	}
-		getch();
+		scanf("%d",&option);
 		return 0;
 }

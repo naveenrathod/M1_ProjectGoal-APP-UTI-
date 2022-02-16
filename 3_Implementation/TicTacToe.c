@@ -1,5 +1,5 @@
 #include "TicTacToe.h"
-
+extern char space[10];
 void RowC(){
 	system("cls");
 	printf("\n\n\t Tic Tac Toe \n\n");
