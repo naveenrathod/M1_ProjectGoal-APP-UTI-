@@ -16,6 +16,9 @@
 |LLR2 | If player enters wrong choice again a chance is given|Technical| Implemented|
 |LLR3 | Block with both player choices|Technical| Implemented|
 
+# SWOT Analysis
+![Swot](https://user-images.githubusercontent.com/46956641/154016874-1dba4738-0b71-427c-be8f-b4abbface064.png)
+
 # 4W's- 1H
 ## WHO-
 * This game is just for fun and entertainment .
@@ -24,4 +27,4 @@
 ## WHERE-
 * Implemented in mobiles with are basic as well as higher end.
 ## How-
-* It is free and can be used by everyone as it's simply .
+* It is free and can be used by everyone as it's simple.
