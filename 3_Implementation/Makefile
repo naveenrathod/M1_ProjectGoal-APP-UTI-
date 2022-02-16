@@ -5,4 +5,4 @@ Run : Build
 	./TicTacToe.out
 
 Clean:
-	rm -rf *.o *.out *.i *.s
+	rm -rf *.o *.out *.i *.s 
