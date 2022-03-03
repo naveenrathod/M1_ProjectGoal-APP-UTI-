@@ -26,5 +26,5 @@
 * Is easy to play and game we can exit the game at any point.
 ## WHERE-
 * Implemented in mobiles with are basic as well as higher end.
-## How-
+## HOW-
 * It is free and can be used by everyone as it's simple.
