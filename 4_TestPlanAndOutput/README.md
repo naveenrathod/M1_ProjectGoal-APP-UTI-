@@ -7,7 +7,6 @@
 |H_02 | Taking input from player |User choice |Display user choice |Display user choice|Requirement|
 |H_03 | Check if player has won |Program execution|Display if player wins with the block |Display if player wins with the block|Requirement|
 |H_04 | Check for tie condition  |Program execution |Display game is tie and restart the game |Display game is tie and restart the game|Requirement|
-
 ## Low level test plan
 
 |Test ID |Description |Expected input |Expected output |Actual output |Type of test|
