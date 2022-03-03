@@ -1,5 +1,6 @@
 # Certificates gathered
 * Sololearn on C programming
-* Linux NDG 
+* NDG linux unhatched 
 * Github learning
+* Hackerearth 1000 points
  
