@@ -1,6 +1,6 @@
 # M1_TicTacToe_game
 
-* Reference:  Youtube(Adv-learning) ,https://youtu.be/gSitgqAJn_I
+* Reference:  Youtube(Adv-learning) 
               
 
 # Codacy
