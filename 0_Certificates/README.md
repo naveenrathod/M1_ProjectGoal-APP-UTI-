@@ -1,2 +1,5 @@
-# Sololearn  C Programming and CISCO Certificate on Linux 
+# Certificates gathered
+* Sololearn on C programming
+* Linux NDG 
+* Github learning
  
