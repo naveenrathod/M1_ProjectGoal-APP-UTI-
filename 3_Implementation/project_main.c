@@ -32,8 +32,9 @@ int main(){
 
 			else {
 				printf("Option is Invalid !");
-				player--;
-				scanf("%d",&option);
+				// player--;
+				// scanf("%d",&option);
+				return 0;
 			}
 			i = Winp();//To Check if the player has won
 			player++;
