@@ -31,7 +31,9 @@ int main(){
 			space[9] = xomark;
 
 			else {
-				printf("Option is Invalid !");
+				printf("Your option is Invalid !");
+				printf("Please enter valid option\n");
+				printf("Start the game once again");
 				// player--;
 				// scanf("%d",&option);
 				return 0;
