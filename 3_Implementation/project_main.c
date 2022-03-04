@@ -33,7 +33,7 @@ int main(){
 			else {
 				printf("Your option is Invalid !\n");
 				printf("Please enter valid option\n");
-				printf("Start the game once again\nM");
+				printf("Start the game once again\n");
 				// player--;
 				// scanf("%d",&option);
 				return 0;
