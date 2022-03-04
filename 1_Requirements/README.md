@@ -1,5 +1,5 @@
 # Description
-* TicTacToe is a game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares, noughts and crosses.
+* TicTacToe is a game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid.Tic-tac-toe, noughts and crosses, or Xs and Os is a game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.If both players are not able to mark in all the possible ways then the game is draw.
 
 ## High level requirements
 | Id | Description | Category | Status |
