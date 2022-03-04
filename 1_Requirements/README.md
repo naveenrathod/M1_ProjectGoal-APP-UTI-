@@ -23,10 +23,8 @@
 ## WHO-
 * This game is just for fun and entertainment .
 ## WHAT-
-* This is a simple game with 3 x 3 grid and can be played using ‘X’ and ‘O’.
-## WHEN-
-* This is simple game and can be played by any two players whenever they are free
+* Is easy to play and we can exit the game at any point.
 ## WHERE-
-* Implemented in mobiles appplications.
+* Implemented in mobiles with are basic as well as higher end.
 ## HOW-
-* It can be used by everyone as it's simple and easy.
+* It can be played by everyone as it's simple.
