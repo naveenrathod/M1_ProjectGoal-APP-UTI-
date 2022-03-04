@@ -1,7 +1,6 @@
 #include "TicTacToe.h"
 extern char space[10];
 void RowC(){
-	system("cls");
 	printf("\n\n\t Tic Tac Toe \n\n");
 	printf("Player1 (X) - Player2 (O) \n\n\n");
 	printf("     |     |     \n");
